@@ -15,6 +15,7 @@ const (
 	CosmosSdkBaseAccount                         = "cosmos-sdk/BaseAccount"
 	CosmosSdkBaseVestingAccount                  = "cosmos-sdk/BaseVestingAccount"
 	CosmosSdkContinuousVestingAccount            = "cosmos-sdk/ContinuousVestingAccount"
+	CosmosSdkMsgCreateVestingAccount             = "cosmos-sdk/MsgCreateVestingAccount"
 	CosmosSdkDelayedVestingAccount               = "cosmos-sdk/DelayedVestingAccount"
 	CosmosSdkMsgSend                             = "cosmos-sdk/MsgSend"
 	CosmosSdkMsgMultiSend                        = "cosmos-sdk/MsgMultiSend"
